@@ -6,8 +6,8 @@
 -->
 ![React_Curd-App](./banner.png)
 
-<!--# React Curd App [![Netlify Status](https://api.netlify.com/api/v1/badges/f3917210-f4e4-40e4-9de1-cdd81ba6dc80/deploy-status)](https://app.netlify.com/sites/hilarious-haupia-a26180/deploys)
--->
+# React Curd App [![Netlify Status](https://api.netlify.com/api/v1/badges/f3917210-f4e4-40e4-9de1-cdd81ba6dc80/deploy-status)](https://app.netlify.com/sites/hilarious-haupia-a26180/deploys)
+
 A simple and beautiful [CRUD](https://www.codecademy.com/articles/what-is-crud) application built with [React](https://reactjs.org).
 
 ## Live Demo
